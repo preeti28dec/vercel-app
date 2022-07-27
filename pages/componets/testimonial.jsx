@@ -18,7 +18,7 @@ function Testimonial() {
                             <div className=' text-[#464646] text-xs font-Quicksand'>Creative Manager</div>
                         </div>
                     </div>
-                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which don't look . </div>
+                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which dont look . </div>
                 </div>
                 <div className='shadow-lg rounded-2xl max-w-[370px] max-h-[340px] px-10 py-16 bg-white child '>
                     <div className='flex items-center gap-5'>
@@ -28,7 +28,7 @@ function Testimonial() {
                             <div className=' text-[#464646] text-xs font-Quicksand'>Creative Manager</div>
                         </div>
                     </div>
-                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which don't look . </div>
+                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which dont look . </div>
                 </div>
                 <div className='shadow-lg rounded-2xl max-w-[370px] max-h-[340px] px-10 py-16 bg-white child '>
                     <div className='flex items-center gap-5'>
@@ -38,7 +38,7 @@ function Testimonial() {
                             <div className=' text-[#464646] text-xs font-Quicksand'>Creative Manager</div>
                         </div>
                     </div>
-                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which don't look . </div>
+                    <div className='text-[#464646] font-normal text-lg mt-4 font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which dont look . </div>
                     <div className='blue_dots_image'><img className='blue_dots' src='./blue_dots.png' alt='loding...'/></div>
                 </div>
                 

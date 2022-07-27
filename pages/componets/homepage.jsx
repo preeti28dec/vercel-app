@@ -21,11 +21,11 @@ function HomePage() {
           <div className='flex'>
             <div className='mt-2 mx-2'><img src='./Pepople.png' width={40} alt='logo-error' /></div>
             <div>
-              <div className=' '>Agency</div>
+              <div>Agency</div>
               <div>Creative</div>
             </div>
           </div>
-          <div className=' mt-4 w-[125px] text-[10px] text-left'> This team is really the best in its field,I don't regret working with them, and will come back again thanks </div>
+          <div className='mt-4 w-[125px] text-[10px] text-left'> This team is really the best in its field I don't regret working with them and will come back again thanks </div>
         </span>
       </div>
 
