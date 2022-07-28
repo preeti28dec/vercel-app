@@ -31,7 +31,7 @@ function Testimonial() {
                     <div className='text-[#464646] font-normal text-lg  font-Quicksand'>There are many variations passages of Lorem Ipsum majority some by words which dont look . </div>
                 </div>
                 <div className='testimonial_card shadow-lg rounded-2xl max-w-[370px]  px-10 py-4 sm:px-10 sm:py-12 bg-white child '>
-                    <div className='sm:flex flex-col  items-center gap-5'>
+                    <div className='sm:flex  flex flex-col items-center gap-5'>
                         <div className=''><img src='./Pepople.png' width={80} alt='logo-error' /></div>
                         <div className='my-6 mx-4'>
                             <div className='text-xl font-semibold text-[#377DFF]'>Angel Rose</div>

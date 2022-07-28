@@ -21,8 +21,11 @@ body {
 }
 
 .images {
+  width: 100%;
+  margin:auto ;
   transition: transform 0.2s ease-in-out;
 }
+
 .images:hover {
   transform: rotate(4deg);
 }
@@ -339,4 +342,7 @@ margin-top: 3rem;
   .footer_hr{
     width: auto;
   }
+}
+.images > img {
+  margin: auto;
 }
