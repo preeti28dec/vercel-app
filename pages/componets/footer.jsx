@@ -7,11 +7,11 @@ import {HiOutlineMail} from 'react-icons/hi'
 
 function Footer() {
     return (
-            <footer className=" bg-[#383638] pt-16">
-                <div className="container mx-auto px-6 pt-6">
+            <footer className=" bg-[#383638] sm:pt-16">
+                <div className="container mx-auto px-6 pt-2 sm:pt-6">
 
-                    <div className='flex justify-between gap-12 flex-wrap my-6'>
-                        <div className='footer_icon flex bg-white rounded-lg mt-4 px-6 py-3 mb-[230px]'>
+                    <div className='flex flex-col sm:flex-row justify-between gap-12 flex-wrap my-6'>
+                        <div className='w-[fit-content] flex bg-white rounded-lg mt-4 px-6 py-3 sm:mb-[230px]'>
                             <div className='mt-2 mr-3'><img src='./images/logoo.svg' width={40} alt='logo-error' /></div>
                             <div>
                                 <div className='font-semibold text-[20px] font-Quicksand'>Agency</div>
