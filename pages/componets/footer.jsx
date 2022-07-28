@@ -10,11 +10,11 @@ function Footer() {
             <footer className=" bg-[#383638] pt-16">
                 <div className="container mx-auto px-6 pt-6">
 
-                    <div className='flex justify-between gap-3 flex-wrap my-6'>
-                        <div className='flex bg-white rounded-lg mt-4 px-6 py-3 mb-[230px]'>
+                    <div className='flex justify-between gap-12 flex-wrap my-6'>
+                        <div className='footer_icon flex bg-white rounded-lg mt-4 px-6 py-3 mb-[230px]'>
                             <div className='mt-2 mr-3'><img src='./images/logoo.svg' width={40} alt='logo-error' /></div>
                             <div>
-                                <div className='nav_links font-Quicksand'>Agency</div>
+                                <div className='font-semibold text-[20px] font-Quicksand'>Agency</div>
                                 <div className='font-Quicksand'>Creative</div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ function Footer() {
                         </div>
                     </div>
                     <div className=''>
-                        <div className="flex justify-center gap-6 ">
+                        <div className="footer_icon flex justify-center gap-6 ">
                             <TbBrandFacebook className='border border-white text-5xl px-2 text-gray-800 bg-white rounded-full ' />
                             <BsInstagram className='border border-white text-5xl px-2 text-gray-800 bg-white rounded-full' />
                             <FiLinkedin className='border border-white text-5xl px-2 text-gray-800 bg-white rounded-full' />
@@ -52,7 +52,7 @@ function Footer() {
                             <FiTwitter className='border border-white text-5xl px-2 text-gray-800 bg-white rounded-full' />
                         </div>
 
-                        <hr className='w-[500px] mx-auto  mt-4' />
+                        <hr className='w-[500px] mx-auto  mt-4 footer_hr' />
                         <div className="text-gray-300 text-[18px]  pb-20 mt-6 font-Quicksand text-center">
                             Copyright @ 2022 Agency Creative. All Right Reserve
                         </div>

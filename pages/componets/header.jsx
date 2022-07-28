@@ -9,31 +9,31 @@ function Header() {
                 <div className='flex'>
                     <div className='mt-2 mx-2'><img src='./images/logoo.svg' width={40} alt='logo-error'/></div>
                     <div>
-                        <div className='nav_links '>Agency</div>
+                        <div className='font-semibold text-[20px] font-Quicksand '>Agency</div>
                         <div>Creative</div>
                     </div>
                 </div>
             </div>
-            <div className=' links flex gap-10 pt-4 nav_link'>
+            <div className=' links flex gap-10 pt-4 font-[400px] text-[18px] font-Quicksand'>
                 <div className=''>
                     <Link href="/">
-                        <a className='nav_link'>Home</a>
+                        <a className='font-font-normal text-[18px] font-Quicksand'>Home</a>
                     </Link>
                 </div>
 
                 <div>
                     <Link href="#about">
-                        <a className='nav_link'>About</a>
+                        <a className='font-font-normal text-[18px] font-Quicksand'>About</a>
                     </Link>
                 </div>
                 <div>
                     <Link href="#services">
-                        <a className='nav_link'>Services</a>
+                        <a className='font-font-normal text-[18px] font-Quicksand'>Services</a>
                     </Link>
                 </div>
-                <div>
+                <div >
                     <Link href="#project">
-                        <a className='nav_link'>Project</a>
+                        <a className='font-font-normal text-[18px] font-Quicksand'>Project</a>
                     </Link>
                 </div>
             </div>
