@@ -20,8 +20,8 @@ function Header() {
                 <div className=' links flex gap-10 pt-4 font-[400px] text-[18px] font-Quicksand '>
                     <Links />
                 </div>
-                <div className='flex justify-center mt-6 '>
-                    <Link href="mailto:main@gmail.com"><a ><button className='border border-[#377DFF] sm:px-6 text-[14px] px-3  py-2 rounded-full mx-6'>Contact us</button></a></Link>
+                <div className='flex justify-center mt-6  '>
+                    <Link href="mailto:main@gmail.com"><a ><button className='border hover:bg-[#377DFF] hover:text-white border-[#377DFF] sm:px-6 text-[14px] px-3  py-2 rounded-full mx-6'>Contact us</button></a></Link>
                     <Test />
                 </div>
 
