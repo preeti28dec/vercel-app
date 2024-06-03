@@ -1,12 +1,11 @@
-import Link from 'next/link'
 import React from 'react'
 
 function HomePage() {
   return (
     <section className='pt-[60px]'>
       <div className='grid justify-items-center'> 
-        <div className='home_text font-Nunito font-extrabold text-center text-[#1D1D1DD] text-[64px] max-w-[780px] max-auto'>Make your dream business goal come true</div>
-        <div className='mt-4 sm:mt-12 mx-2 font-Nunito opacity-[0.6] font-normal text-[#464646] text-center text-[16px] sm:py-2 sm:text-[20px] max-w-[780px] max-auto'>when you need us for improve your business,then come with us to help your business have reach it, you just sit and feel that goal</div>
+        <div className='home_text font-Nunito font-extrabold text-center text-[#1D1D1DD] text-[50px] max-w-[780px] max-auto'>Elevate Your Software with AI Introducing Infinytics</div>
+        <div className='mt-4 sm:mt-12 mx-2 font-Nunito opacity-[0.6] font-normal text-[#464646] text-center text-[16px] sm:py-2 sm:text-[20px] max-w-[780px] max-auto'>Infinytics is a pioneering software development company specializing in seamlessly integrating cutting-edge Large Language Models (LLMs) into your existing applications and workflows. We empower businesses to unlock the transformative potential of AI, boosting efficiency, enhancing user experiences, and driving innovation</div>
       </div>
       <div className='text-center mt-10'>
         <button className='bg-blue-500 text-white py-2 px-8 rounded-full'>Start Project</button>

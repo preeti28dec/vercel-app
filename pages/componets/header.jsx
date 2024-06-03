@@ -21,7 +21,7 @@ function Header() {
                     <Links />
                 </div>
                 <div className='flex justify-center mt-6  '>
-                    <Link href="mailto:main@gmail.com"><a ><button className='border hover:bg-[#377DFF] hover:text-white border-[#377DFF] sm:px-6 text-[14px] px-3  py-2 rounded-full mx-6'>Contact us</button></a></Link>
+                    <Link href="mailto:main@gmail.com"><button className='border hover:bg-[#377DFF] hover:text-white border-[#377DFF] sm:px-6 text-[14px] px-3  py-2 rounded-full mx-6'>Contact us</button></Link>
                     <Test />
                 </div>
 
