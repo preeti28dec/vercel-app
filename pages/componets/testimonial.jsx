@@ -5,7 +5,7 @@ function Testimonial() {
         <div className='container mx-auto my-12 sm:my-20 px-6'>
             <div className='font-Quicksand font-semibold text-2xl text-[#377DFF] text-center '>Testimonial</div>
             <div className='sm:flex'>
-                <div className=' testimonial_dots_image dots_img'><img src='./blue_dots.png' alt='loding..'></img></div>
+                <div className=' testimonial_dots_image dots_img'><img src='./blue_dots.png' alt='loding..'/></div>
                 <div className='font-bold text-[#1D1D1D] text-[24px] sm:text-6xl font-Quicksand sm:text-center  sm:my-12 my-2 text-center sm:ml-36'>People Talk about us</div>
             </div>
 

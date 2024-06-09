@@ -24,7 +24,7 @@ function HomePage() {
               <div>Creative</div>
             </div>
           </div>
-          <div className='mt-4 w-[125px] text-[10px] text-left'> This team is really the best in its field I don't regret working with them and will come back again thanks </div>
+          <div className='mt-4 w-[125px] text-[10px] text-left'> This team is really the best in its field I dont regret working with them and will come back again thanks </div>
         </span>
       </div>
 

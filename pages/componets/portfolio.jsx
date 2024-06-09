@@ -7,7 +7,7 @@ function Portfolio() {
       <div className='portfolio_text text-7xl font-bold text-center my-4'>What do we do </div>
       <div className='flex justify-between'>
       <div className='  text-center font-normal text-[14px] sm:text-2xl max-w-[800px] mx-auto text-[#464646] sm:my-16 my-4 font-Quicksand'>all projects that we have already done , proven can help to use more comfortable, then can used by client from our business</div>
-      <div className='portfolio_dots_image dots_img'><img src='./dots_img.png' alt='loding..'></img></div>
+      <div className='portfolio_dots_image dots_img'><img src='./dots_img.png' alt='loding..'/></div>
       </div>
       
 
